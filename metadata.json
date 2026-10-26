@@ -1,0 +1,6 @@
+{
+  "name": "Planify AI - Project Review & Milestone Automation",
+  "description": "Automated project review scheduling and AI milestone tracking system with Excel ingestion, Gemini module breakdown, Google Meet integration, and recursive progress reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
